@@ -17,7 +17,8 @@ class Footer extends Component {
     const translate = this.state.translate;
     const browser = browserName();
     const feedbackUrl = `https://qsurvey.mozilla.com/s3/Firefox-Send-Product-Feedback?ver=${version}&browser=${browser}`;
-    return html`
+    // disable footer
+    html`
       <footer
         class="flex flex-col md:flex-row items-start w-full flex-none self-start p-6 font-medium text-xs text-grey-dark md:items-center justify-between"
       >
@@ -59,6 +60,11 @@ class Footer extends Component {
           </li>
         </ul>
       </footer>
+    `;
+    return html`
+      <footer
+        class="flex flex-col md:flex-row items-start w-full flex-none self-start p-6 font-medium text-xs text-grey-dark md:items-center justify-between"
+      ></footer>
     `;
   }
 }
