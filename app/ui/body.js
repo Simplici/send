@@ -13,7 +13,9 @@ function banner(state) {
     document.querySelector('html').lang.startsWith('en') &&
     !state.route.startsWith('/unsupported/');
   if (show) {
-    return state.cache(Promo, 'promo').render();
+    // return state.cache(Promo, 'promo').render();
+    // disable banner
+    state.cache(Promo, 'promo').render();
   }
 }
 
