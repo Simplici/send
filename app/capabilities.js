@@ -90,6 +90,8 @@ export default async function getCapabilities() {
   } catch (e) {
     account = false;
   }
+  // disable account capability
+  account = false;
   const share =
     typeof navigator.share === 'function' && LOCALE.startsWith('en'); // en until strings merge
 
