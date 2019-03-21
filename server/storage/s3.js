@@ -1,9 +1,12 @@
 const AWS = require('aws-sdk');
-const config = {};
-// use BaiduYun BOS as S3 endpoint
-config['endpoint'] = "http://s3.gz.bcebos.com";
-config['s3ForcePathStyle'] = true;
-AWS.config.update(config);
+
+if(process.env.AWS_S3_ENDPOINT !== null && process.env.AWS_S3_ENDPOINT !== undefined) {
+  const config = {}
+  config['endpoint'] = process.env.AWS_S3_ENDPOINT;
+  config['s3ForcePathStyle'] = true;
+  AWS.config.update(config);
+}
+
 const s3 = new AWS.S3();
 
 class S3Storage {
