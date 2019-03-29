@@ -1,5 +1,5 @@
-# Firefox Send is a brand name and should not be localized.
-title = Firefox Send
+# Panda Send is a brand name and should not be localized.
+title = Panda Send
 siteSubtitle = web-kokeilu
 siteFeedback = Palaute
 uploadPageHeader = Yksityinen, salattu tiedostojen jakaminen
@@ -55,16 +55,16 @@ unlockInputLabel = Syötä salasana
 unlockInputPlaceholder = Salasana
 unlockButtonLabel = Avaa
 downloadFileTitle = Lataa salattu tiedosto
-# Firefox Send is a brand name and should not be localized.
-downloadMessage = Ystäväsi lähettää sinulle tiedoston Firefox Send -palvelulla, jonka avulla voidaan jakaa tiedostoja turvallisen, yksityisen ja salatun linkin kautta. Linkki vanhenee automaattisesti, joten tiedot eivät säily verkossa ikuisesti.
+# Panda Send is a brand name and should not be localized.
+downloadMessage = Ystäväsi lähettää sinulle tiedoston Panda Send -palvelulla, jonka avulla voidaan jakaa tiedostoja turvallisen, yksityisen ja salatun linkin kautta. Linkki vanhenee automaattisesti, joten tiedot eivät säily verkossa ikuisesti.
 # Text and title used on the download link/button (indicates an action).
 downloadButtonLabel = Lataa
 downloadNotification = Latauksesi on valmis.
 downloadFinish = Lataus valmis
 # This message is displayed when uploading or downloading a file, e.g. "(1,3 MB of 10 MB)".
 fileSizeProgress = { $partialSize } / { $totalSize }
-# Firefox Send is a brand name and should not be localized.
-sendYourFilesLink = Kokeile Firefox Sendiä
+# Panda Send is a brand name and should not be localized.
+sendYourFilesLink = Kokeile Panda Sendiä
 downloadingPageProgress = Ladataan { $filename } ({ $size })
 downloadingPageMessage = Jätä tämä välilehti auki siksi aikaa kun haemme tiedoston ja puramme sen.
 errorAltText = Latausvirhe
@@ -75,10 +75,10 @@ fileTooBig = Tämä tiedosto on liian suuri ladattavaksi. Sen pitäisi olla pien
 linkExpiredAlt = Linkki on vanhentunut
 expiredPageHeader = Tämä linkki on vanhentunut tai sitä ei ole koskaan ollut olemassa!
 notSupportedHeader = Selaintasi ei tueta.
-# Firefox Send is a brand name and should not be localized.
-notSupportedDetail = Valitettavasti tämä selain ei tue Firefox Sendiä käyttävää web-tekniikkaa. Sinun on kokeiltava toista selainta. Suosittelemme Firefoxia!
+# Panda Send is a brand name and should not be localized.
+notSupportedDetail = Valitettavasti tämä selain ei tue Panda Sendiä käyttävää web-tekniikkaa. Sinun on kokeiltava toista selainta. Suosittelemme Firefoxia!
 notSupportedLink = Miksi selaintani ei tueta?
-notSupportedOutdatedDetail = Valitettavasti tämä Firefoxin versio ei tue Firefox Sendiä käyttävää web-tekniikkaa. Sinun on päivitettävä selaimesi.
+notSupportedOutdatedDetail = Valitettavasti tämä Firefoxin versio ei tue Panda Sendiä käyttävää web-tekniikkaa. Sinun on päivitettävä selaimesi.
 updateFirefox = Päivitä Firefox
 downloadFirefoxButtonSub = Ilmainen lataus
 uploadedFile = Tiedosto
@@ -88,8 +88,8 @@ expiryFileList = Vanhenee
 deleteFileList = Poista
 nevermindButton = Unohda koko juttu
 legalHeader = Ehdot ja yksityisyys
-legalNoticeTestPilot = Firefox Send on tällä hetkellä Test Pilot -kokeilu, ja siihen sovelletaan Test Pilot <a>käyttöehtoja</a> ja <a>tietosuojakäytäntöjä</a>. Saat lisätietoja tästä kokeilusta ja sen tiedonkeruusta <a>täällä</a>.
-legalNoticeMozilla = Firefox Send -sivuston käyttöön sovelletaan Mozillan <a>verkkosivustojen yksityisyyskäytäntöjä</a> ja <a>verkkosivustojen käyttöehtoja</a>.
+legalNoticeTestPilot = Panda Send on tällä hetkellä Test Pilot -kokeilu, ja siihen sovelletaan Test Pilot <a>käyttöehtoja</a> ja <a>tietosuojakäytäntöjä</a>. Saat lisätietoja tästä kokeilusta ja sen tiedonkeruusta <a>täällä</a>.
+legalNoticeMozilla = Panda Send -sivuston käyttöön sovelletaan Mozillan <a>verkkosivustojen yksityisyyskäytäntöjä</a> ja <a>verkkosivustojen käyttöehtoja</a>.
 deletePopupText = Poista tämä tiedosto?
 deletePopupYes = Kyllä
 deletePopupCancel = Peruuta
@@ -107,7 +107,7 @@ changePasswordButton = Muuta
 passwordTryAgain = Väärä salasana. Yritä uudelleen.
 reportIPInfringement = Ilmoita IP-rikkomuksesta
 javascriptRequired = Firefox-Send vaatii JavaScriptin
-whyJavascript = Miksi Firefox Send vaatii JavaScriptin?
+whyJavascript = Miksi Panda Send vaatii JavaScriptin?
 enableJavascript = Ota JavaScript käyttöön ja yritä uudelleen.
 # A short representation of a countdown timer containing the number of hours and minutes remaining as digits, example "13h 47m"
 expiresHoursMinutes = { $hours }t { $minutes }min

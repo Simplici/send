@@ -48,7 +48,7 @@ module.exports = function(name, url) {
       try {
         await navigator.share({
           title: state.translate('-send-brand'),
-          text: `Download "${name}" with Firefox Send: simple, safe file sharing`,
+          text: `Download "${name}" with Panda Send: simple, safe file sharing`,
           //state.translate('shareMessage', { name }),
           url
         });

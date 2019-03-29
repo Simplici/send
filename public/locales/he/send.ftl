@@ -1,5 +1,5 @@
-# Firefox Send is a brand name and should not be localized.
-title = Firefox Send
+# Panda Send is a brand name and should not be localized.
+title = Panda Send
 siteSubtitle = ניסוי אינטרנט
 siteFeedback = משוב
 uploadPageHeader = שיתוף קבצים פרטי, מוצפן

@@ -1,5 +1,5 @@
-# Firefox Send is a brand name and should not be localized.
-title = Firefox Send
+# Panda Send is a brand name and should not be localized.
+title = Panda Send
 siteFeedback = Iritzia
 importingFile = Inportatzen…
 encryptingFile = Zifratzen...
@@ -20,13 +20,13 @@ unlockButtonLabel = Desblokeatu
 downloadButtonLabel = Deskargatu
 downloadFinish = Deskarga burututa
 fileSizeProgress = ({ $totalSize } / { $partialSize })
-sendYourFilesLink = Probatu Firefox Send
+sendYourFilesLink = Probatu Panda Send
 errorPageHeader = Zerbait gaizki joan da!
 fileTooBig = Fitxategia handiegia da kargatzeko. { $size } baino txikiagoa izan behar du.
 linkExpiredAlt = Lotura iraungita
 notSupportedHeader = Zure nabigatzailea ez da onartzen.
 notSupportedLink = Zergatik ez da nire nabigatzailea onartzen?
-notSupportedOutdatedDetail = Zoritxarrez Firefox bertsio honek ez du Firefox Send-ek behar duen web teknologia onartzen. Zure nabigatzailea eguneratu behar duzu.
+notSupportedOutdatedDetail = Zoritxarrez Firefox bertsio honek ez du Panda Send-ek behar duen web teknologia onartzen. Zure nabigatzailea eguneratu behar duzu.
 updateFirefox = Eguneratu Firefox
 deletePopupCancel = Utzi
 deleteButtonHover = Ezabatu

@@ -1,5 +1,5 @@
-# Firefox Send is a brand name and should not be localized.
-title = Firefox Send
+# Panda Send is a brand name and should not be localized.
+title = Panda Send
 siteSubtitle = πείραμα διαδικτύου
 siteFeedback = Σχόλια
 uploadPageHeader = Ιδιωτική, κρυπτογραφημένη κοινή χρήση αρχείων
@@ -55,16 +55,16 @@ unlockInputLabel = Εισαγωγή κωδικού πρόσβασης
 unlockInputPlaceholder = Κωδικός πρόσβασης
 unlockButtonLabel = Ξεκλείδωμα
 downloadFileTitle = Λήψη κρυπτογραφημένου αρχείου
-# Firefox Send is a brand name and should not be localized.
-downloadMessage = Ο/Η φίλος/-η σας, σάς στέλνει ένα αρχείο με τη βοήθεια του Firefox Send, μιας υπηρεσίας που επιτρέπει τον διαμοιρασμό αρχείων μέσω ενός ασφαλούς, ιδιωτικού και κρυπτογραφημένου συνδέσμου που λήγει αυτόματα, ώστε να είστε σίγουροι ότι τα αρχεία σας δεν θα παραμείνουν στο διαδίκτυο για πάντα.
+# Panda Send is a brand name and should not be localized.
+downloadMessage = Ο/Η φίλος/-η σας, σάς στέλνει ένα αρχείο με τη βοήθεια του Panda Send, μιας υπηρεσίας που επιτρέπει τον διαμοιρασμό αρχείων μέσω ενός ασφαλούς, ιδιωτικού και κρυπτογραφημένου συνδέσμου που λήγει αυτόματα, ώστε να είστε σίγουροι ότι τα αρχεία σας δεν θα παραμείνουν στο διαδίκτυο για πάντα.
 # Text and title used on the download link/button (indicates an action).
 downloadButtonLabel = Λήψη
 downloadNotification = Η λήψη σας ολοκληρώθηκε.
 downloadFinish = Η λήψη ολοκληρώθηκε
 # This message is displayed when uploading or downloading a file, e.g. "(1,3 MB of 10 MB)".
 fileSizeProgress = ({ $partialSize } από { $totalSize })
-# Firefox Send is a brand name and should not be localized.
-sendYourFilesLink = Δοκιμάστε το Firefox Send
+# Panda Send is a brand name and should not be localized.
+sendYourFilesLink = Δοκιμάστε το Panda Send
 downloadingPageProgress = Γίνεται λήψη του { $filename } ({ $size })
 downloadingPageMessage = Παρακαλώ αφήστε ανοικτή αυτή την καρτέλα όσο λαμβάνουμε και αποκρυπτογραφούμε το αρχείο σας.
 errorAltText = Σφάλμα μεταφόρτωσης
@@ -75,10 +75,10 @@ fileTooBig = Αυτό το αρχείο είναι πολύ μεγάλο για 
 linkExpiredAlt = Ο σύνδεσμος έληξε
 expiredPageHeader = Αυτός ο σύνδεσμος έχει λήξει ή δεν υπήρξε ποτέ!
 notSupportedHeader = Το πρόγραμμα περιήγησής σας δεν υποστηρίζεται.
-# Firefox Send is a brand name and should not be localized.
-notSupportedDetail = Δυστυχώς, αυτό το πρόγραμμα περιήγησης δεν υποστηρίζει την τεχνολογία ιστού στην οποία βασίζεται το Firefox Send. Θα πρέπει να δοκιμάσετε ένα άλλο πρόγραμμα περιήγησης. Προτείνουμε το Firefox!
+# Panda Send is a brand name and should not be localized.
+notSupportedDetail = Δυστυχώς, αυτό το πρόγραμμα περιήγησης δεν υποστηρίζει την τεχνολογία ιστού στην οποία βασίζεται το Panda Send. Θα πρέπει να δοκιμάσετε ένα άλλο πρόγραμμα περιήγησης. Προτείνουμε το Firefox!
 notSupportedLink = Γιατί δεν υποστηρίζεται το πρόγραμμα περιήγησής μου;
-notSupportedOutdatedDetail = Δυστυχώς, αυτή η έκδοση του Firefox δεν υποστηρίζει την τεχνολογία ιστού στην οποία βασίζεται το Firefox Send. Πρέπει να ενημερώσετε το πρόγραμμα περιήγησής σας.
+notSupportedOutdatedDetail = Δυστυχώς, αυτή η έκδοση του Firefox δεν υποστηρίζει την τεχνολογία ιστού στην οποία βασίζεται το Panda Send. Πρέπει να ενημερώσετε το πρόγραμμα περιήγησής σας.
 updateFirefox = Ενημέρωση Firefox
 downloadFirefoxButtonSub = Δωρεάν λήψη
 uploadedFile = Αρχείο
@@ -88,8 +88,8 @@ expiryFileList = Λήγει σε
 deleteFileList = Διαγραφή
 nevermindButton = Μην ανησυχείτε
 legalHeader = Όροι & απόρρητο
-legalNoticeTestPilot = Το Firefox Send αποτελεί προς το παρόν ένα πείραμα Test Pilot και υπόκειται στους <a>όρους υπηρεσίας</a> και την <a>πολιτική απορρήτου</a> του Test Pilot. Μπορείτε να μάθετε περισσότερα γι' αυτό το πείραμα και τη συλλογή δεδομένων <a>εδώ</a>.
-legalNoticeMozilla = Η χρήση της ιστοσελίδας Firefox Send υπόκειται επίσης στην <a>πολιτική απορρήτου ιστοσελίδων</a> και τους <a>όρους χρήσης ιστοσελίδων</a> της Mozilla.
+legalNoticeTestPilot = Το Panda Send αποτελεί προς το παρόν ένα πείραμα Test Pilot και υπόκειται στους <a>όρους υπηρεσίας</a> και την <a>πολιτική απορρήτου</a> του Test Pilot. Μπορείτε να μάθετε περισσότερα γι' αυτό το πείραμα και τη συλλογή δεδομένων <a>εδώ</a>.
+legalNoticeMozilla = Η χρήση της ιστοσελίδας Panda Send υπόκειται επίσης στην <a>πολιτική απορρήτου ιστοσελίδων</a> και τους <a>όρους χρήσης ιστοσελίδων</a> της Mozilla.
 deletePopupText = Διαγραφή αρχείου;
 deletePopupYes = Ναι
 deletePopupCancel = Ακύρωση
@@ -106,8 +106,8 @@ addPasswordButton = Προσθήκη κωδικού πρόσβασης
 changePasswordButton = Αλλαγή
 passwordTryAgain = Λάθος κωδικός πρόσβασης. Δοκιμάστε ξανά.
 reportIPInfringement = Αναφορά παραβίασης IP
-javascriptRequired = Το Firefox Send απαιτεί JavaScript
-whyJavascript = Γιατί το Firefox Send απαιτεί JavaScript;
+javascriptRequired = Το Panda Send απαιτεί JavaScript
+whyJavascript = Γιατί το Panda Send απαιτεί JavaScript;
 enableJavascript = Παρακαλώ ενεργοποιήστε το JavaScript και δοκιμάστε ξανά.
 # A short representation of a countdown timer containing the number of hours and minutes remaining as digits, example "13h 47m"
 expiresHoursMinutes = { $hours }ώ { $minutes }λ
@@ -120,10 +120,10 @@ maxPasswordLength = Μέγιστο μήκος κωδικού: { $length }
 # A short status message shown when there was an error setting the password
 passwordSetError = Δεν ήταν δυνατός ο ορισμός αυτού του κωδικού
 
-## New strings for the vNext version of Firefox Send
+## New strings for the vNext version of Panda Send
 
-# Firefox Send, Send, Firefox, Mozilla are proper names and should not be localized
--send-brand = Firefox Send
+# Panda Send, Send, Firefox, Mozilla are proper names and should not be localized
+-send-brand = Panda Send
 -send-short-brand = Send
 -firefox = Firefox
 -mozilla = Mozilla
